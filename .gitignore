@@ -1,0 +1,16 @@
+
+.idea/
+
+*.npy
+
+src/__pycache__/
+
+src/.ipynb_checkpoints/
+
+src/automated_meassuring/chacha20-meassure.log
+
+src/automated_meassuring/__pycache__/
+
+src/K 00000000 00000001 00000010.txt
+src/automated_meassuring/figures/Thumbs.db
+*.db
